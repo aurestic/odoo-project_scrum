@@ -35,7 +35,7 @@ class test_something(common.TransactionCase):
             'date_stop': '2015-01-28',
             'project_id': x,
             'product_owner_id': y,
-            'scrum_master_id' z,
+            'scrum_master_id': z,
             'review': 'foo',
             'retrospective': 'bar',
             'state': 'draft'
